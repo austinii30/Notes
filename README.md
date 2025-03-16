@@ -1,5 +1,5 @@
 # 要甚麼自己找
-借鑒記得要不留痕跡。
+借鑒不留痕跡，複製貼上天打雷劈。
 
 ## 統計計算與模擬
 - Code: [HW1](https://github.com/austinii30/scas_113-2/tree/main/hw1)
@@ -10,7 +10,7 @@
 - 書面作業/報告: [進來找](https://www.overleaf.com/read/gxxcctqppfvm#7db319) 
 
 ## 實驗設計
-- Code: 尚無
+- Code: 尚無(Excel算一算，沒啥好看)
 - 書面作業/報告: [進來找](https://www.overleaf.com/read/gqyqhqjdrwgk#4d2f26) 
 
 ## 筆記
