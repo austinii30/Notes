@@ -3,7 +3,7 @@
 
 ## 統計計算與模擬
 - Code: [HW1](https://github.com/austinii30/scas_113-2/tree/main/hw1)
-- 書面作業/報告: 聯絡這位哥 ericpeople40@gmail.com
+- 書面作業/報告: [進來找](https://www.overleaf.com/read/hkjcmxzkjcwm#b5888c)
 
 ## 統計機器學習
 - Code: [HW1](https://github.com/austinii30/SML/tree/main/hw1)
